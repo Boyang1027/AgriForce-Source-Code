@@ -1,6 +1,6 @@
-# Travel App
+# AgriForce
 
-A new Flutter project.
+An app make for farmers!
 
 ## Getting Started
 
